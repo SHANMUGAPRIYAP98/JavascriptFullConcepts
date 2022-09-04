@@ -1,2 +1,2 @@
 # JavascriptFullConcepts
-This Repo contains atmost concepts of javascript
+This Repo covers all the concepts of javascript
